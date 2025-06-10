@@ -1,0 +1,81 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-06-10 17:48:52 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "modrinth:root": {
+    "criteria": {
+      "rootcause": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "modrinth:rain_realm_create": {
+    "criteria": {
+      "rootcause": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "modrinth:hordenight": {
+    "criteria": {
+      "instaget": "2025-06-10 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-06-10 17:48:53 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2025-06-10 17:49:01 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-10 17:49:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-10 17:50:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
