@@ -1,4 +1,22 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-11 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2025-06-11 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2025-06-11 03:27:23 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-11 03:30:14 +0000"
@@ -8,12 +26,6 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-06-11 03:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-06-11 03:27:23 +0000"
     },
     "done": true
   },
@@ -72,12 +84,6 @@
     },
     "done": true
   },
-  "simplymore:root": {
-    "criteria": {
-      "requirement": "2025-06-11 03:27:23 +0000"
-    },
-    "done": true
-  },
   "create_dd:root": {
     "criteria": {
       "0": "2025-06-11 03:30:14 +0000"
@@ -125,17 +131,18 @@
     },
     "done": true
   },
-  "minecraft:unlock_deep_pockets_book": {
-    "criteria": {
-      "exists": "2025-06-11 03:27:23 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/limited_gold_barrel_1": {
     "criteria": {
       "has_limited_iron_barrel_1": "2025-06-11 03:30:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-06-11 03:36:05 +0000",
+      "minecraft:forest": "2025-06-11 03:36:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
