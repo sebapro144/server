@@ -1,79 +1,139 @@
 {
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-10 17:48:52 +0000"
+      "unlock_right_away": "2025-06-11 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-11 03:30:14 +0000",
+      "inv_changed-diamond": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-06-11 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
   "simplymore:root": {
     "criteria": {
-      "requirement": "2025-06-10 17:48:52 +0000"
+      "requirement": "2025-06-11 03:27:23 +0000"
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
+  "create_dd:root": {
     "criteria": {
-      "s3": "2025-06-10 17:48:52 +0000"
-    },
-    "done": false
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-06-10 17:48:52 +0000"
+      "0": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "modrinth:root": {
+  "createnuclear:root": {
     "criteria": {
-      "rootcause": "2025-06-10 17:48:52 +0000"
+      "0": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "vanilla_refresh:player/tick": {
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
-      "s": "2025-06-10 17:48:52 +0000"
+      "has_wpt": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "modrinth:rain_realm_create": {
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
-      "rootcause": "2025-06-10 17:48:52 +0000"
+      "has_wpt": "2025-06-11 03:30:14 +0000",
+      "has_wct": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
     "criteria": {
-      "always": "2025-06-10 17:48:52 +0000"
+      "has_wit": "2025-06-11 03:30:14 +0000",
+      "has_wct": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "modrinth:hordenight": {
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
-      "instaget": "2025-06-10 17:48:52 +0000"
+      "has_wit": "2025-06-11 03:30:14 +0000",
+      "has_wpt": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "ae2wtlib:recipes/quantum_bridge_card": {
     "criteria": {
-      "minecraft:taiga": "2025-06-10 17:48:53 +0000"
-    },
-    "done": false
-  },
-  "vanilla_refresh:biome/taiga": {
-    "criteria": {
-      "requirement": "2025-06-10 17:49:01 +0000"
+      "has_wit": "2025-06-11 03:30:14 +0000",
+      "has_wpt": "2025-06-11 03:30:14 +0000",
+      "has_wct": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "minecraft:unlock_deep_pockets_book": {
     "criteria": {
-      "requirement": "2025-06-10 17:49:15 +0000"
+      "exists": "2025-06-11 03:27:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "sophisticatedstorage:recipes/misc/limited_gold_barrel_1": {
     "criteria": {
-      "seeds": "2025-06-10 17:50:01 +0000"
+      "has_limited_iron_barrel_1": "2025-06-11 03:30:14 +0000"
     },
     "done": true
   },

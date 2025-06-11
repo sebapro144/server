@@ -1,8 +1,11 @@
 {
+  "ae2:server_data": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
   "create:contraption_inv": null,
   "create:hide_boiler_tanks": null,
+  "fluxnetworks:device_data_provider": null,
+  "fluxnetworks:energy_storage_provider": null,
   "jade:object_name": null,
   "lootr:inventory": null,
   "minecraft:animal_owner": null,
@@ -23,7 +26,5 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null,
-  "supplementaries:present": null,
-  "supplementaries:safe": null
+  "minecraft:zombie_villager": null
 }

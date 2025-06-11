@@ -309,7 +309,7 @@
 						Livestock = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.blockAccess]
-						#When enabled, claimed chunk protection makes an exception for block access by the following entities: minecraft:villager. If the block protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the block access.
+						#When enabled, claimed chunk protection makes an exception for unlimited block access by the following entities: minecraft:villager. If the block protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the block access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
@@ -317,7 +317,7 @@
 						Villagers = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.entityAccess]
-						#When enabled, claimed chunk protection makes an exception for entity access BY the following entities: minecraft:zombie, minecraft:zombie_villager, minecraft:husk, minecraft:drowned. If the entity protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the entity access.
+						#When enabled, claimed chunk protection makes an exception for unlimited entity access by the following entities: minecraft:zombie, minecraft:zombie_villager, minecraft:husk, minecraft:drowned. If the entity protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the entity access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
@@ -325,19 +325,19 @@
 						Zombies = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.droppedItemAccess]
-						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:villager. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
+						#When enabled, claimed chunk protection makes an exception for unlimited dropped item access by the following entities: minecraft:villager. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the dropped item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
 						Villagers = 0
-						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:piglin. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
+						#When enabled, claimed chunk protection makes an exception for unlimited dropped item access by the following entities: minecraft:piglin. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the dropped item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
 						Piglins = 0
-						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:fox. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
+						#When enabled, claimed chunk protection makes an exception for unlimited dropped item access by the following entities: minecraft:fox. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the dropped item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
