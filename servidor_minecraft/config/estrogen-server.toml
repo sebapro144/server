@@ -3,12 +3,12 @@
 #Settings for the dash effect
 [dash]
 	#.
-	#Enable dash from the Effect of Estrogen
-	dashEnabled = true
-	#.
 	#The multiplier for the dash delta movement
 	#Range: 0 ~ 100
 	dashDeltaModifier = 2
+	#.
+	#Enable dash from the Effect of Estrogen
+	dashEnabled = true
 
 #.
 #Settings for the estrogen patches

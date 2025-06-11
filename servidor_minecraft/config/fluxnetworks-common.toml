@@ -3,10 +3,10 @@ placeholder = true
 
 #Jade
 [Jade]
-	#Displays: Network Name, Live Transfer Rate & Internal Buffer
-	enableJadeBasicInfo = true
 	#Displays: Transfer Limit, Priority, Chunk Loading
 	enableJadeAdvancedInfo = true
+	#Displays: Network Name, Live Transfer Rate & Internal Buffer
+	enableJadeBasicInfo = true
 	#Display Advanced Info only when sneaking
 	enableJadeSneaking = true
 
