@@ -1,0 +1,72 @@
+{
+  "trimEffects": {
+    "eye": {
+      "attribute": "minecraft:generic.attack_speed",
+      "operation": "MULTIPLY_BASE",
+      "materialBonuses": {
+        "gold": 0.2,
+        "diamond": 0.25,
+        "iron": 0.15,
+        "copper": 0.15,
+        "quartz": 0.1,
+        "lapis": 0.1,
+        "amethyst": 0.1,
+        "emerald": 0.2,
+        "redstone": 0.1,
+        "netherite": 0.3
+      },
+      "effectName": "Eye Speed Bonus"
+    },
+    "vex": {
+      "attribute": "minecraft:generic.movement_speed",
+      "operation": "MULTIPLY_BASE",
+      "materialBonuses": {
+        "gold": 0.2,
+        "diamond": 0.25,
+        "iron": 0.15,
+        "copper": 0.15,
+        "quartz": 0.1,
+        "lapis": 0.1,
+        "amethyst": 0.1,
+        "emerald": 0.2,
+        "redstone": 0.1,
+        "netherite": 0.3
+      },
+      "effectName": "Vex Speed Bonus"
+    },
+    "wild": {
+      "attribute": "minecraft:generic.attack_damage",
+      "operation": "MULTIPLY_BASE",
+      "materialBonuses": {
+        "gold": 0.25,
+        "diamond": 0.3,
+        "iron": 0.2,
+        "copper": 0.2,
+        "quartz": 0.15,
+        "lapis": 0.15,
+        "amethyst": 0.15,
+        "emerald": 0.25,
+        "redstone": 0.15,
+        "netherite": 0.4
+      },
+      "effectName": "Wild Damage Bonus"
+    },
+    "sentry": {
+      "attribute": "minecraft:generic.max_health",
+      "operation": "MULTIPLY_BASE",
+      "materialBonuses": {
+        "gold": 0.25,
+        "diamond": 0.3,
+        "iron": 0.2,
+        "copper": 0.2,
+        "quartz": 0.15,
+        "lapis": 0.15,
+        "amethyst": 0.15,
+        "emerald": 0.25,
+        "redstone": 0.15,
+        "netherite": 0.4
+      },
+      "effectName": "Sentry Health Bonus"
+    }
+  }
+}
