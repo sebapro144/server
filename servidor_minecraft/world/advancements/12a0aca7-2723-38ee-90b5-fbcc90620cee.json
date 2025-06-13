@@ -1491,6 +1491,7 @@
       "minecraft:wither_skeleton": "2025-06-12 18:58:44 +0000",
       "minecraft:cave_spider": "2025-06-12 00:52:56 +0000",
       "minecraft:piglin": "2025-06-12 00:29:49 +0000",
+      "minecraft:enderman": "2025-06-13 18:32:15 +0000",
       "minecraft:zombie": "2025-06-11 23:53:56 +0000",
       "minecraft:drowned": "2025-06-12 21:15:23 +0000",
       "minecraft:zombie_villager": "2025-06-12 16:17:50 +0000"
@@ -5664,6 +5665,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-06-13 04:39:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/double_netherite_chest": {
     "criteria": {
       "has_diamond_chest": "2025-06-13 04:40:27 +0000"
@@ -5673,12 +5680,6 @@
   "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
     "criteria": {
       "has_diamond_chest": "2025-06-13 04:40:27 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/fuel_tank": {
-    "criteria": {
-      "has_item": "2025-06-13 04:39:01 +0000"
     },
     "done": true
   },

@@ -9509,15 +9509,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-06-13 04:10:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
       "has_item": "2025-06-13 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-13 04:10:09 +0000"
     },
     "done": true
   },
@@ -9593,12 +9593,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
-    "criteria": {
-      "has_item": "2025-06-13 04:17:54 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-13 04:10:09 +0000"
@@ -9608,18 +9602,6 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-06-13 04:10:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2025-06-13 04:10:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-06-13 04:10:12 +0000"
     },
     "done": true
   },
@@ -9734,6 +9716,24 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-13 04:10:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-06-13 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2025-06-13 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-06-13 04:17:54 +0000"
     },
     "done": true
   },
