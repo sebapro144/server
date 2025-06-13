@@ -5664,5 +5664,29 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-06-13 04:40:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-06-13 04:40:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-06-13 04:39:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-06-13 04:40:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
