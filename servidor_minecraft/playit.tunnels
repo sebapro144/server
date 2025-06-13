@@ -1,6 +1,6 @@
 {
   "tcp_alloc": {
-    "allowed": 6,
+    "allowed": 16,
     "claimed": 1,
     "desired": 1
   },
@@ -9,29 +9,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "components-ha.gl.joinmc.link",
-          "assigned_srv": "components-ha.gl.joinmc.link",
+          "assigned_domain": "database-mariah.sa.joinmc.link",
+          "assigned_srv": "database-mariah.sa.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "331c59fd-5616-4a5d-94be-81356a10b148",
-          "ip_hostname": "29.ip.gl.ply.gg",
+          "id": "399a448d-bd9c-45f5-b2fb-ddc1b02f3585",
+          "ip_hostname": "17.ip.sa.ply.gg",
           "ip_type": "both",
-          "port_end": 11317,
-          "port_start": 11316,
-          "region": "global",
-          "static_ip4": "147.185.221.29",
-          "static_ip6": "2602:fbaf:0:1::1d",
-          "tunnel_ip": "2602:fbaf:0:1::1d"
+          "port_end": 1616,
+          "port_start": 1615,
+          "region": "south-america",
+          "static_ip4": "198.22.204.17",
+          "static_ip6": "2602:fbaf:0:6::11",
+          "tunnel_ip": "2602:fbaf:0:6::11"
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-10T01:42:00.210247Z",
+      "created_at": "2025-06-13T02:13:53.998760Z",
       "disabled_reason": null,
-      "domain": null,
+      "domain": {
+        "id": "3fee23d5-c89b-4b60-9c60-59ecabd2852c",
+        "is_external": false,
+        "name": "papuserverinsano.playit.plus",
+        "parent": null,
+        "source": "from-tunnel"
+      },
       "expire_notice": null,
       "firewall_id": null,
-      "id": "db247f43-245b-49bb-ba8f-35837003ce3e",
+      "id": "c0b35951-bec5-480a-81da-256c289b532d",
       "name": "Minecraft Java",
       "origin": {
         "data": {
@@ -49,12 +55,12 @@
         "bytes_per_second": null,
         "packets_per_second": null
       },
-      "region": "global",
+      "region": "south-america",
       "tunnel_type": "minecraft-java"
     }
   ],
   "udp_alloc": {
-    "allowed": 6,
+    "allowed": 16,
     "claimed": 0,
     "desired": 0
   }
